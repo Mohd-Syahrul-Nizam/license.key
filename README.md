@@ -1,4 +1,4 @@
 # license.key
 
 Authorized android list :
-- 123
+- 1199ceec7a73ef30
